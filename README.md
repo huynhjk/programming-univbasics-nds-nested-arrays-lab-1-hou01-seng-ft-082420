@@ -219,3 +219,5 @@ can build them by building `Array`s filled with variables that point to other
 seen that you can use coordinates to look up elements in the matrix as well as
 update those elements. In the lab associated with this material, you'll have a
 chance to make sure you've understood the basics.
+irb
+garment = 2 > 1 ? "galoshes" : "sun hat"
